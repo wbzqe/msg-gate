@@ -1,0 +1,18 @@
+{
+    "debug": true,
+    "http": {
+        "listen": "0.0.0.0:4000",
+        "token": ""
+    },
+    "smtp": {
+        "addr": "smtp.test.com:465",
+        "username": "test@test.com",
+        "password": "test123",
+        "from": "test@test.com"
+    },
+    "qywx": {
+        "CorpID" : "wwwwwwwwwwwwwwww",
+        "AgentId": "1000002",
+        "Secret" : "sdfsdgasdgadgahaersjdnlgaurhglaiubg"
+    }
+}
